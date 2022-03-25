@@ -1,6 +1,6 @@
 # **Companion Website for &quot;Human Digital Twin: Automated Cell Type Distance Computation and 3D Atlas Construction in Multiplexed Skin Biopsies&quot;**
 
-Soumya Ghose1,2, Yingnan Ju1,3, Elizabeth McDonough2,Jonhan Ho4, Arivarasan Karunamurthy4, Chrystal Chadwick2, Sanghee Cho2, Rachel Rose 2, Alex Corwin2, Eric Williams2, Christine Surrette2, Jessica Martinez2, Anup Sood2, Yousef Al-Kofahi2, Louis Falo4, Katy Börner3,5, Fiona Ginty2,5
+Soumya Ghose<sup>1,2</sup>, Yingnan Ju<sup>1,3</sup>, Elizabeth McDonough<sup>2</sup>,Jonhan Ho<sup>4</sup>, Arivarasan Karunamurthy<sup>4</sup>, Chrystal Chadwick<sup>2</sup>, Sanghee Cho<sup>2</sup>, Rachel Rose<sup>2</sup>, Alex Corwin<sup>2</sup>, Eric Williams<sup>2</sup>, Christine Surrette<sup>2</sup>, Jessica Martinez<sup>2</sup>, Anup Sood<sup>2</sup>, Yousef Al-Kofahi<sup>2</sup>, Louis Falo<sup>4</sup>, Katy Börner<sup>3,5</sup>, Fiona Ginty<sup>2,5</sup>
 
 1Joint first-authors; 5Joint corresponding authors
 
