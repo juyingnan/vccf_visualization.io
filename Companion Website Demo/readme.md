@@ -6,7 +6,7 @@ Soumya Ghose<sup>1,2</sup>, Yingnan Ju<sup>1,3</sup>, Elizabeth McDonough<sup>2<
 
 <sup>2</sup> GE Research Center; <sup>3</sup> Indiana University; <sup>4</sup> University of Pittsburgh
 
-![Shape1](RackMultipart20220325-4-1lht7ko_html_237499165a11f2b9.gif)
+---
 
 [Link to preprint on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.11.09.467810v1)
 
@@ -16,7 +16,7 @@ Link to MATRICS-A code on GitHub - place holder for Soumya&#39;s code
 
 Link to Data Collection on HuBMAP Portal
 
-![Shape2](RackMultipart20220325-4-1lht7ko_html_237499165a11f2b9.gif)
+---
 
 **DOIs for Data:**
 
